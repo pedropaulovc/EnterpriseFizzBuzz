@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/pevezzacenterprisefbar01",
+      "type": "storage.azure",
+      "connectionId": "FooWorker",
+      "secretStore": "AzureAppSettings"
+    }
+  }
+}

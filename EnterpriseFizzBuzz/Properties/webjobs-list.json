@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjobs-list.json",
+  "WebJobs": [
+    {
+      "filePath": "../FooWorker/FooWorker.csproj"
+    },
+    {
+      "filePath": "../BarWorker/BarWorker.csproj"
+    },
+    {
+      "filePath": "../BuzzWorker/BuzzWorker.csproj"
+    }
+  ]
+}
